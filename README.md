@@ -1,1 +1,0 @@
-Projeto de portfólio desenvolvido em HTML, CSS e JavaScript, criado para exibir meus serviços e habilidades de forma dinâmica e responsiva. Ele facilita a demonstração do meu trabalho, com uma experiência visual imersiva, permitindo a navegação fluida tanto em desktop quanto mobile.
